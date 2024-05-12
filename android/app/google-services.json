@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572185967063",
+    "project_id": "budged-app",
+    "storage_bucket": "budged-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572185967063:android:1f1f944938da23fbccf392",
+        "android_client_info": {
+          "package_name": "com.example.budget_tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxLIDgOsc9qogBT5GH7rPQ8uYLBnucYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
